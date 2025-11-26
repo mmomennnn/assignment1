@@ -160,8 +160,9 @@ console.log(splitString("The quick brown fox"));
 */
 
 //B1
-///*
-//*/
+/*
+for each runs all elements at the same time and i cannot use break but for of I can use await
+*/
 
 //B2
 /*
@@ -193,6 +194,7 @@ n = '4'/'4'
 console.log(n)
 
 */
+
 
 
 
